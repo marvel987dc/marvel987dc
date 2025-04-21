@@ -7,7 +7,7 @@
 
 - "Code is like humor. When you have to explain it, it’s bad." **— Cory House**
 
-- 👨‍💻 All of my projects are available at [https://jdbgportfolio.netlify.app](https://jdbgportfolio.netlify.app)
+- 👨‍💻 Portfolio: [https://jdbgportfolio.netlify.app](https://jdbgportfolio.netlify.app)
 
 - 📝 I'm guitar player in my free times, music lover, here's my Spotify Playlist lol [https://open.spotify.com/playlist/37i9dQZF1E38xsqxy3c9Q5?si=bc5303f1f3b547ea](https://open.spotify.com/playlist/37i9dQZF1E38xsqxy3c9Q5?si=bc5303f1f3b547ea)
 
