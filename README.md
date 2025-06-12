@@ -1,12 +1,6 @@
 <h1 align="center">Hi 👋, I'm Juan</h1>
 <h3 align="center">AI - Software Engineering Student</h3>
 
-- I'm currently studying [AI software Engineering](At Centennial College)
-
-- 🌱 I’m currently learning **Supervised Learning Algorithms and Data Structures**
-
-- "Code is like humor. When you have to explain it, it’s bad." **— Cory House**
-
 - 👨‍💻 Portfolio: [https://jdbgportfolio.netlify.app](https://jdbgportfolio.netlify.app)
 
 - 📝 I'm guitar player in my free times, music lover, here's my Spotify Playlist lol [https://open.spotify.com/playlist/37i9dQZF1E38xsqxy3c9Q5?si=bc5303f1f3b547ea](https://open.spotify.com/playlist/37i9dQZF1E38xsqxy3c9Q5?si=bc5303f1f3b547ea)
