@@ -3,7 +3,7 @@
 
 - 👨‍💻 Portfolio: [https://jdbgportfolio.netlify.app](https://jdbgportfolio.netlify.app)
 
-- 📝 I'm guitar player in my free times, music lover, here's my Spotify Playlist lol [https://open.spotify.com/playlist/37i9dQZF1E38xsqxy3c9Q5?si=bc5303f1f3b547ea](https://open.spotify.com/playlist/37i9dQZF1E38xsqxy3c9Q5?si=bc5303f1f3b547ea)
+- 📝 I'm guitar player in my free times, music lover, here's my Spotify Playlist lol [https://open.spotify.com/playlist/37i9dQZF1E38xsqxy3c9Q5?si=bc5303f1f3b547ea](https://open.spotify.com/playlist/37i9dQZF1FoApb654R67II?si=4ef71aa69c70499d)
 
 - 💬 Favorite Languages and Frameworks: **React, Java, Python**
 
