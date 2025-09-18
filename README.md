@@ -52,11 +52,3 @@
 
 ---
 
-<h3 align="left">📊 GitHub Stats:</h3>
-<p>
-  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=marvel987dc&show_icons=true&locale=en&layout=compact&theme=radical" alt="Top Languages"/>
-</p>
-
-<p>
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=marvel987dc&show_icons=true&locale=en&theme=radical" alt="GitHub Stats"/>
-</p>
