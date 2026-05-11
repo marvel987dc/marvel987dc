@@ -38,12 +38,12 @@ I am passionate about learning new technologies, solving problems, and creating 
   <a href="https://www.linkedin.com/in/juanbarreroo" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-Juan%20Barrero-0A66C2?style=for-the-badge&logo=linkedin&logoColor=ffffff" />
   </a>
-  <a href="mailto:barrerojuan810@gmail.com">
-    <img src="https://img.shields.io/badge/Email-barrerojuan810%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=ffffff" />
+  <a href="mailto:juanbarrero2005@hotmail.com">
+    <img src="https://img.shields.io/badge/Email-juanbarrero2005@hotmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=ffffff" />
   </a>
 </p>
 
-📫 **Email:** barrerojuan810@gmail.com  
+📫 **Email:** juanbarrero2005@hotmail.com 
 
 ---
 
