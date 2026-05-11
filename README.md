@@ -1,21 +1,21 @@
 <h1 align="center">Hi 👋, I'm Juan</h1>
-<h3 align="center">AI & Software Engineering Student | Music Enthusiast 🎸</h3>
+<h3 align="center">AI & Software Engineering Graduate | Front-End Developer | Music Enthusiast 🎸</h3>
 
 ---
 
 - 👨‍💻 **Portfolio:** [jdbgportfolio.netlify.app](https://jdbgportfolio.netlify.app)  
 - 🎶 **Music Lover:** Check out my [Spotify Playlist](https://open.spotify.com/playlist/37i9dQZF1FoApb654R67II?si=4ef71aa69c70499d)  
-- 💡 **Favorite Tech:** React, Java, Python  
-- 📫 **Reach me at:** barrerojuan810@gmail.com  
+- 💡 **Favorite Technologies:** React, Java, Python  
+- 📫 **Contact me at:** barrerojuan810@gmail.com  
 
 ---
 
 <h3 align="left">🌐 Connect with me:</h3>
 <p align="left">
-  <a href="https://www.linkedin.com/in/juanbarreroo" target="blank">
+  <a href="https://www.linkedin.com/in/juanbarreroo" target="_blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40"/>
   </a>
-  <a href="https://discord.gg/xuandavid" target="blank">
+  <a href="https://discord.gg/xuandavid" target="_blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="Discord" height="30" width="40"/>
   </a>
 </p>
@@ -49,6 +49,3 @@
   <a href="https://scikit-learn.org/" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="Scikit-Learn" width="40" height="40"/></a>
   <a href="https://seaborn.pydata.org/" target="_blank"><img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="Seaborn" width="40" height="40"/></a>
 </p>
-
----
-
